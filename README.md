@@ -3,6 +3,7 @@
 A **JPEG image compression system** for grayscale images, implemented in **Python** using **NumPy** and related libraries. This project demonstrates the core steps of JPEG compression, including encoding and decoding, and visualizes each stage to highlight the effectiveness of the compression and the accuracy of reconstruction.
 
 ---
+![JPEG Compression](./dip.png)
 
 ## ✨ Features
 - Compression of grayscale images using the **JPEG standard**.
